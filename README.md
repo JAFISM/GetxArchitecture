@@ -1,0 +1,2 @@
+# GetxArchitecture
+sample getx architecture
